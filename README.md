@@ -1,4 +1,4 @@
-This is a static React app that pulls in information about space using an API. 
+This is a static React app that pulls and displays some information about space using an API. 
 
 # Getting Started with Create React App
 
